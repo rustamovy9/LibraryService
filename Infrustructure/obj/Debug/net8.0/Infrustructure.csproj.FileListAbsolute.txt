@@ -1,0 +1,12 @@
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\bin\Debug\net8.0\Infrustructure.deps.json
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\bin\Debug\net8.0\Infrustructure.dll
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\bin\Debug\net8.0\Infrustructure.pdb
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\Infrustructure.csproj.AssemblyReference.cache
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\Infrustructure.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\Infrustructure.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\Infrustructure.dll
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\refint\Infrustructure.dll
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\Infrustructure.pdb
+C:\Users\VICTUS\Desktop\LibraryApp\Infrustructure\obj\Debug\net8.0\ref\Infrustructure.dll
